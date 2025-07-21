@@ -1,7 +1,5 @@
 # data-driven-prediction-of-battery-cycle-life-before-capacity-degradation
 
-**NOTE: For access to the modeling code, please contact Richard Braatz at braatz@mit.edu for the academic license. Only the data processing code is available without agreeing to a license.**
-
 ## Table of Contents
 - [Overview](#overview)
 - [Data Source](#data-source)
